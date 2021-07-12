@@ -1,0 +1,82 @@
+.banner{
+    height:24rem;
+    width:100%;
+    background: #565656;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+    img{
+        margin-left: 42%;
+        margin-right: 38%;
+        margin-top:2rem;
+        width:15%;
+        border-radius:100%;
+        border:6px dotted #FABE29;
+
+    }
+
+    .name{
+        text-align: center;
+        background: #FABE29;
+        position:relative;
+        margin-left:27.5rem;
+        margin-right:50rem;
+        margin-top: -7.5rem;
+        padding:1rem;
+        font-size: 2.25rem;
+        width:20rem;
+        height:4rem;
+        
+        border-radius: 10%;
+    }
+    .bg{
+        background-color: whitesmoke;
+        margin-bottom: 2rem;
+
+            }       
+        .invisible{
+            visibility: hidden;
+        }
+
+    .address{
+        text-align:center;
+        padding:1px;
+        margin-top: 30px;
+    }
+
+    .vertical {
+        border-left: 0.8px solid black;
+        height: 650px;
+        position:absolute;
+        left: 50%;
+    }
+    
+    .a {
+      position: relative;
+      width: 1200px;
+      height: 550px;
+    }
+    
+    .b {
+      position: absolute;
+      left: auto;
+      width: 600px;
+      height: 475px;
+      
+    } 
+    
+    .c {
+      position: absolute;
+      left: 620px;
+      width: 600px;
+      height: 475px;
+    } 
+    .tittle{
+        margin-left: 10px;
+        font-size:1.5rem;
+        
+    }
+
